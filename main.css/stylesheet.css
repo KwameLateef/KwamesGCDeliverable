@@ -1,0 +1,27 @@
+#main {
+    border: 1px solid #000000;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+head {text-align: center
+}
+
+#img {
+    border: 2px solid red;
+    border-radius: 25px;
+    box-shadow: 5px 10px;
+}
+
+#img {
+    border: 2px solid red;
+    border-radius: 25px;
+    box-shadow: 5px 10px;
+}
+
+#img{
+    border: 2px solid red;
+    border-radius: 25px;
+    box-shadow: 5px 10px;
+}
